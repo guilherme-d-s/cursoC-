@@ -1,0 +1,13 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio3\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.genruntimeconfig.cache

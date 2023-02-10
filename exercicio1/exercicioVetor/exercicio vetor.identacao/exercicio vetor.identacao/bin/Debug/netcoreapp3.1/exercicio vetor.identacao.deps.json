@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exercicio vetor.identacao/1.0.0": {
+        "runtime": {
+          "exercicio vetor.identacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio vetor.identacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

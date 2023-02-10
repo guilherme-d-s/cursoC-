@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicio1\exercicioEstruturaSequencial\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.genruntimeconfig.cache
