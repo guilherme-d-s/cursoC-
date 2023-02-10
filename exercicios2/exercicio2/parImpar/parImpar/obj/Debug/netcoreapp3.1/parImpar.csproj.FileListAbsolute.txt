@@ -1,0 +1,13 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\bin\Debug\netcoreapp3.1\parImpar.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\bin\Debug\netcoreapp3.1\parImpar.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\bin\Debug\netcoreapp3.1\parImpar.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\bin\Debug\netcoreapp3.1\parImpar.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\bin\Debug\netcoreapp3.1\parImpar.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\bin\Debug\netcoreapp3.1\parImpar.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\obj\Debug\netcoreapp3.1\parImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\obj\Debug\netcoreapp3.1\parImpar.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\obj\Debug\netcoreapp3.1\parImpar.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\obj\Debug\netcoreapp3.1\parImpar.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\obj\Debug\netcoreapp3.1\parImpar.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\obj\Debug\netcoreapp3.1\parImpar.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\parOuImpar\parImpar\parImpar\obj\Debug\netcoreapp3.1\parImpar.genruntimeconfig.cache

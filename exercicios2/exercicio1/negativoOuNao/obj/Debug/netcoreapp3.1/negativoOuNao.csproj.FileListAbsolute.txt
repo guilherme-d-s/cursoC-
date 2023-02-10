@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\bin\Debug\netcoreapp3.1\negativoOuNao.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\bin\Debug\netcoreapp3.1\negativoOuNao.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\bin\Debug\netcoreapp3.1\negativoOuNao.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\bin\Debug\netcoreapp3.1\negativoOuNao.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\bin\Debug\netcoreapp3.1\negativoOuNao.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\bin\Debug\netcoreapp3.1\negativoOuNao.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\obj\Debug\netcoreapp3.1\negativoOuNao.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\obj\Debug\netcoreapp3.1\negativoOuNao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\obj\Debug\netcoreapp3.1\negativoOuNao.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\obj\Debug\netcoreapp3.1\negativoOuNao.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\obj\Debug\netcoreapp3.1\negativoOuNao.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\obj\Debug\netcoreapp3.1\negativoOuNao.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\obj\Debug\netcoreapp3.1\negativoOuNao.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\negativoOuNao\negativoOuNao\obj\Debug\netcoreapp3.1\negativoOuNao.genruntimeconfig.cache

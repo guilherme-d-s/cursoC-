@@ -1,0 +1,13 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\bin\Debug\netcoreapp3.1\condicionalComposto.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\bin\Debug\netcoreapp3.1\condicionalComposto.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\bin\Debug\netcoreapp3.1\condicionalComposto.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\bin\Debug\netcoreapp3.1\condicionalComposto.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\bin\Debug\netcoreapp3.1\condicionalComposto.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\bin\Debug\netcoreapp3.1\condicionalComposto.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\obj\Debug\netcoreapp3.1\condicionalComposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\obj\Debug\netcoreapp3.1\condicionalComposto.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\obj\Debug\netcoreapp3.1\condicionalComposto.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\obj\Debug\netcoreapp3.1\condicionalComposto.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\obj\Debug\netcoreapp3.1\condicionalComposto.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\obj\Debug\netcoreapp3.1\condicionalComposto.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalComposto\condicionalComposto\obj\Debug\netcoreapp3.1\condicionalComposto.genruntimeconfig.cache

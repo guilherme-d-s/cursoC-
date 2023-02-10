@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\bin\Debug\netcoreapp3.1\course1.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\bin\Debug\netcoreapp3.1\course1.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\bin\Debug\netcoreapp3.1\course1.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\bin\Debug\netcoreapp3.1\course1.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\bin\Debug\netcoreapp3.1\course1.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\bin\Debug\netcoreapp3.1\course1.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\obj\Debug\netcoreapp3.1\course1.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\obj\Debug\netcoreapp3.1\course1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\obj\Debug\netcoreapp3.1\course1.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\obj\Debug\netcoreapp3.1\course1.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\obj\Debug\netcoreapp3.1\course1.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\obj\Debug\netcoreapp3.1\course1.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\obj\Debug\netcoreapp3.1\course1.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\course1\course1\obj\Debug\netcoreapp3.1\course1.genruntimeconfig.cache

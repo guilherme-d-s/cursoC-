@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\bin\Debug\netcoreapp3.1\entradaDeDados.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\bin\Debug\netcoreapp3.1\entradaDeDados.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\bin\Debug\netcoreapp3.1\entradaDeDados.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\bin\Debug\netcoreapp3.1\entradaDeDados.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\bin\Debug\netcoreapp3.1\entradaDeDados.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\bin\Debug\netcoreapp3.1\entradaDeDados.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\obj\Debug\netcoreapp3.1\entradaDeDados.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\obj\Debug\netcoreapp3.1\entradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\obj\Debug\netcoreapp3.1\entradaDeDados.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\obj\Debug\netcoreapp3.1\entradaDeDados.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\obj\Debug\netcoreapp3.1\entradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\obj\Debug\netcoreapp3.1\entradaDeDados.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\obj\Debug\netcoreapp3.1\entradaDeDados.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\entradaDeDados\entradaDeDados\entradaDeDados\obj\Debug\netcoreapp3.1\entradaDeDados.genruntimeconfig.cache

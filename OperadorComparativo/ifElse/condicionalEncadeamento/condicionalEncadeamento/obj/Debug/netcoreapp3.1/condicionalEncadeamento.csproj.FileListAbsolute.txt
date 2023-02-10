@@ -1,0 +1,13 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\bin\Debug\netcoreapp3.1\condicionalEncadeamento.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\bin\Debug\netcoreapp3.1\condicionalEncadeamento.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\bin\Debug\netcoreapp3.1\condicionalEncadeamento.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\bin\Debug\netcoreapp3.1\condicionalEncadeamento.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\bin\Debug\netcoreapp3.1\condicionalEncadeamento.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\bin\Debug\netcoreapp3.1\condicionalEncadeamento.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\obj\Debug\netcoreapp3.1\condicionalEncadeamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\obj\Debug\netcoreapp3.1\condicionalEncadeamento.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\obj\Debug\netcoreapp3.1\condicionalEncadeamento.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\obj\Debug\netcoreapp3.1\condicionalEncadeamento.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\obj\Debug\netcoreapp3.1\condicionalEncadeamento.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\obj\Debug\netcoreapp3.1\condicionalEncadeamento.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalEncadeamento\condicionalEncadeamento\obj\Debug\netcoreapp3.1\condicionalEncadeamento.genruntimeconfig.cache

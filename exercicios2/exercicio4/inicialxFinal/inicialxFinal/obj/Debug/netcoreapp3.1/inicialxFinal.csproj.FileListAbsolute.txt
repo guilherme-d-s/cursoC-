@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\bin\Debug\netcoreapp3.1\inicialxFinal.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\bin\Debug\netcoreapp3.1\inicialxFinal.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\bin\Debug\netcoreapp3.1\inicialxFinal.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\bin\Debug\netcoreapp3.1\inicialxFinal.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\bin\Debug\netcoreapp3.1\inicialxFinal.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\bin\Debug\netcoreapp3.1\inicialxFinal.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\obj\Debug\netcoreapp3.1\inicialxFinal.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\obj\Debug\netcoreapp3.1\inicialxFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\obj\Debug\netcoreapp3.1\inicialxFinal.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\obj\Debug\netcoreapp3.1\inicialxFinal.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\obj\Debug\netcoreapp3.1\inicialxFinal.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\obj\Debug\netcoreapp3.1\inicialxFinal.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\obj\Debug\netcoreapp3.1\inicialxFinal.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\horas\inicialxFinal\inicialxFinal\obj\Debug\netcoreapp3.1\inicialxFinal.genruntimeconfig.cache

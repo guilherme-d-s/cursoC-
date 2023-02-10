@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "condicionalSimples", "condicionalSimples\condicionalSimples.csproj", "{0ABEBAB5-59DA-4E67-A050-72465A9C1761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABEBAB5-59DA-4E67-A050-72465A9C1761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABEBAB5-59DA-4E67-A050-72465A9C1761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABEBAB5-59DA-4E67-A050-72465A9C1761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABEBAB5-59DA-4E67-A050-72465A9C1761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A5754DE-B992-4A68-A52C-833ADD35C64D}
+	EndGlobalSection
+EndGlobal

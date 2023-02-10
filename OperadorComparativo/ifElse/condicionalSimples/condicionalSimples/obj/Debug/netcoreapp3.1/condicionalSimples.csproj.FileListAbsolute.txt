@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\bin\Debug\netcoreapp3.1\condicionalSimples.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\bin\Debug\netcoreapp3.1\condicionalSimples.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\bin\Debug\netcoreapp3.1\condicionalSimples.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\bin\Debug\netcoreapp3.1\condicionalSimples.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\bin\Debug\netcoreapp3.1\condicionalSimples.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\bin\Debug\netcoreapp3.1\condicionalSimples.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\obj\Debug\netcoreapp3.1\condicionalSimples.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\obj\Debug\netcoreapp3.1\condicionalSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\obj\Debug\netcoreapp3.1\condicionalSimples.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\obj\Debug\netcoreapp3.1\condicionalSimples.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\obj\Debug\netcoreapp3.1\condicionalSimples.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\obj\Debug\netcoreapp3.1\condicionalSimples.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\obj\Debug\netcoreapp3.1\condicionalSimples.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\ifElse\condicionalSimples\condicionalSimples\obj\Debug\netcoreapp3.1\condicionalSimples.genruntimeconfig.cache

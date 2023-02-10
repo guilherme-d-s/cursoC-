@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\bin\Debug\netcoreapp3.1\tabela.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\bin\Debug\netcoreapp3.1\tabela.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\bin\Debug\netcoreapp3.1\tabela.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\bin\Debug\netcoreapp3.1\tabela.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\bin\Debug\netcoreapp3.1\tabela.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\bin\Debug\netcoreapp3.1\tabela.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\obj\Debug\netcoreapp3.1\tabela.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\obj\Debug\netcoreapp3.1\tabela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\obj\Debug\netcoreapp3.1\tabela.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\obj\Debug\netcoreapp3.1\tabela.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\obj\Debug\netcoreapp3.1\tabela.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\obj\Debug\netcoreapp3.1\tabela.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\obj\Debug\netcoreapp3.1\tabela.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio5\tabela\tabela\obj\Debug\netcoreapp3.1\tabela.genruntimeconfig.cache

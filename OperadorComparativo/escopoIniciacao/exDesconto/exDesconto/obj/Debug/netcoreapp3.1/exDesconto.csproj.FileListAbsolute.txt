@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\bin\Debug\netcoreapp3.1\exDesconto.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\bin\Debug\netcoreapp3.1\exDesconto.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\bin\Debug\netcoreapp3.1\exDesconto.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\bin\Debug\netcoreapp3.1\exDesconto.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\bin\Debug\netcoreapp3.1\exDesconto.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\bin\Debug\netcoreapp3.1\exDesconto.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\obj\Debug\netcoreapp3.1\exDesconto.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\obj\Debug\netcoreapp3.1\exDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\obj\Debug\netcoreapp3.1\exDesconto.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\obj\Debug\netcoreapp3.1\exDesconto.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\obj\Debug\netcoreapp3.1\exDesconto.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\obj\Debug\netcoreapp3.1\exDesconto.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\obj\Debug\netcoreapp3.1\exDesconto.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\escopoIniciacao\exDesconto\exDesconto\obj\Debug\netcoreapp3.1\exDesconto.genruntimeconfig.cache

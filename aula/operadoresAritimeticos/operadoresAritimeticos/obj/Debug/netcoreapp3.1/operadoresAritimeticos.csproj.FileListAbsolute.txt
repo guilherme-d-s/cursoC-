@@ -1,0 +1,13 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\bin\Debug\netcoreapp3.1\operadoresAritimeticos.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\bin\Debug\netcoreapp3.1\operadoresAritimeticos.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\bin\Debug\netcoreapp3.1\operadoresAritimeticos.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\bin\Debug\netcoreapp3.1\operadoresAritimeticos.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\bin\Debug\netcoreapp3.1\operadoresAritimeticos.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\bin\Debug\netcoreapp3.1\operadoresAritimeticos.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\obj\Debug\netcoreapp3.1\operadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\obj\Debug\netcoreapp3.1\operadoresAritimeticos.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\obj\Debug\netcoreapp3.1\operadoresAritimeticos.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\obj\Debug\netcoreapp3.1\operadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\obj\Debug\netcoreapp3.1\operadoresAritimeticos.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\obj\Debug\netcoreapp3.1\operadoresAritimeticos.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\operadoresAritimeticos\operadoresAritimeticos\obj\Debug\netcoreapp3.1\operadoresAritimeticos.genruntimeconfig.cache

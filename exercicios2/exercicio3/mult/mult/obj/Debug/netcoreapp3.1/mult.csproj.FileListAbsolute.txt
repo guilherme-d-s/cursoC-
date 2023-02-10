@@ -1,0 +1,13 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\bin\Debug\netcoreapp3.1\mult.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\bin\Debug\netcoreapp3.1\mult.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\bin\Debug\netcoreapp3.1\mult.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\bin\Debug\netcoreapp3.1\mult.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\bin\Debug\netcoreapp3.1\mult.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\bin\Debug\netcoreapp3.1\mult.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\obj\Debug\netcoreapp3.1\mult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\obj\Debug\netcoreapp3.1\mult.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\obj\Debug\netcoreapp3.1\mult.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\obj\Debug\netcoreapp3.1\mult.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\obj\Debug\netcoreapp3.1\mult.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\obj\Debug\netcoreapp3.1\mult.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\multiplos\mult\mult\obj\Debug\netcoreapp3.1\mult.genruntimeconfig.cache

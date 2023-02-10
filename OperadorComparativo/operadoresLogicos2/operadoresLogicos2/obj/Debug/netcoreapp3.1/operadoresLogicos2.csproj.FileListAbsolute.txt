@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\bin\Debug\netcoreapp3.1\operadoresLogicos2.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\bin\Debug\netcoreapp3.1\operadoresLogicos2.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\bin\Debug\netcoreapp3.1\operadoresLogicos2.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\bin\Debug\netcoreapp3.1\operadoresLogicos2.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\bin\Debug\netcoreapp3.1\operadoresLogicos2.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\bin\Debug\netcoreapp3.1\operadoresLogicos2.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\obj\Debug\netcoreapp3.1\operadoresLogicos2.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\obj\Debug\netcoreapp3.1\operadoresLogicos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\obj\Debug\netcoreapp3.1\operadoresLogicos2.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\obj\Debug\netcoreapp3.1\operadoresLogicos2.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\obj\Debug\netcoreapp3.1\operadoresLogicos2.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\obj\Debug\netcoreapp3.1\operadoresLogicos2.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\obj\Debug\netcoreapp3.1\operadoresLogicos2.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\OperadorComparativo\operadoresLogicos2\operadoresLogicos2\obj\Debug\netcoreapp3.1\operadoresLogicos2.genruntimeconfig.cache
