@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\bin\Debug\netcoreapp3.1\quadrantes.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\bin\Debug\netcoreapp3.1\quadrantes.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\bin\Debug\netcoreapp3.1\quadrantes.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\bin\Debug\netcoreapp3.1\quadrantes.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\bin\Debug\netcoreapp3.1\quadrantes.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\bin\Debug\netcoreapp3.1\quadrantes.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\obj\Debug\netcoreapp3.1\quadrantes.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\obj\Debug\netcoreapp3.1\quadrantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\obj\Debug\netcoreapp3.1\quadrantes.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\obj\Debug\netcoreapp3.1\quadrantes.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\obj\Debug\netcoreapp3.1\quadrantes.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\obj\Debug\netcoreapp3.1\quadrantes.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\obj\Debug\netcoreapp3.1\quadrantes.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio7\quadrantes\quadrantes\obj\Debug\netcoreapp3.1\quadrantes.genruntimeconfig.cache

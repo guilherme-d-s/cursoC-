@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\bin\Debug\netcoreapp3.1\imposto.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\bin\Debug\netcoreapp3.1\imposto.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\bin\Debug\netcoreapp3.1\imposto.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\bin\Debug\netcoreapp3.1\imposto.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\bin\Debug\netcoreapp3.1\imposto.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\bin\Debug\netcoreapp3.1\imposto.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\obj\Debug\netcoreapp3.1\imposto.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\obj\Debug\netcoreapp3.1\imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\obj\Debug\netcoreapp3.1\imposto.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\obj\Debug\netcoreapp3.1\imposto.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\obj\Debug\netcoreapp3.1\imposto.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\obj\Debug\netcoreapp3.1\imposto.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\obj\Debug\netcoreapp3.1\imposto.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios2\exercicio8\imposto\imposto\obj\Debug\netcoreapp3.1\imposto.genruntimeconfig.cache

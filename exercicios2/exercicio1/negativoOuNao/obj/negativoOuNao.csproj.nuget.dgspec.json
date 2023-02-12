@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\negativoOuNao\\negativoOuNao\\negativoOuNao.csproj": {}
+    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio1\\negativoOuNao\\negativoOuNao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\negativoOuNao\\negativoOuNao\\negativoOuNao.csproj": {
+    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio1\\negativoOuNao\\negativoOuNao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\negativoOuNao\\negativoOuNao\\negativoOuNao.csproj",
+        "projectUniqueName": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio1\\negativoOuNao\\negativoOuNao.csproj",
         "projectName": "negativoOuNao",
-        "projectPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\negativoOuNao\\negativoOuNao\\negativoOuNao.csproj",
+        "projectPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio1\\negativoOuNao\\negativoOuNao.csproj",
         "packagesPath": "C:\\Users\\PicoPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\negativoOuNao\\negativoOuNao\\obj\\",
+        "outputPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio1\\negativoOuNao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

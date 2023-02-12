@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\horas\\inicialxFinal\\inicialxFinal\\inicialxFinal.csproj": {}
+    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio4\\inicialxFinal\\inicialxFinal\\inicialxFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\horas\\inicialxFinal\\inicialxFinal\\inicialxFinal.csproj": {
+    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio4\\inicialxFinal\\inicialxFinal\\inicialxFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\horas\\inicialxFinal\\inicialxFinal\\inicialxFinal.csproj",
+        "projectUniqueName": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio4\\inicialxFinal\\inicialxFinal\\inicialxFinal.csproj",
         "projectName": "inicialxFinal",
-        "projectPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\horas\\inicialxFinal\\inicialxFinal\\inicialxFinal.csproj",
+        "projectPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio4\\inicialxFinal\\inicialxFinal\\inicialxFinal.csproj",
         "packagesPath": "C:\\Users\\PicoPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\horas\\inicialxFinal\\inicialxFinal\\obj\\",
+        "outputPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio4\\inicialxFinal\\inicialxFinal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

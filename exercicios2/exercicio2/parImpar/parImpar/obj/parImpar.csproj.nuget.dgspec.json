@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\parOuImpar\\parImpar\\parImpar\\parImpar.csproj": {}
+    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio2\\parImpar\\parImpar\\parImpar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\parOuImpar\\parImpar\\parImpar\\parImpar.csproj": {
+    "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio2\\parImpar\\parImpar\\parImpar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\parOuImpar\\parImpar\\parImpar\\parImpar.csproj",
+        "projectUniqueName": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio2\\parImpar\\parImpar\\parImpar.csproj",
         "projectName": "parImpar",
-        "projectPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\parOuImpar\\parImpar\\parImpar\\parImpar.csproj",
+        "projectPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio2\\parImpar\\parImpar\\parImpar.csproj",
         "packagesPath": "C:\\Users\\PicoPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\parOuImpar\\parImpar\\parImpar\\obj\\",
+        "outputPath": "C:\\Users\\PicoPC\\Desktop\\ws-vs19-app1\\exercicios2\\exercicio2\\parImpar\\parImpar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
