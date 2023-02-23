@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\obj\Debug\netcoreapp3.1\while.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\obj\Debug\netcoreapp3.1\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\obj\Debug\netcoreapp3.1\while.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\obj\Debug\netcoreapp3.1\while.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\obj\Debug\netcoreapp3.1\while.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\bin\Debug\netcoreapp3.1\while.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\bin\Debug\netcoreapp3.1\while.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\bin\Debug\netcoreapp3.1\while.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\bin\Debug\netcoreapp3.1\while.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\bin\Debug\netcoreapp3.1\while.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\bin\Debug\netcoreapp3.1\while.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\obj\Debug\netcoreapp3.1\while.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\obj\Debug\netcoreapp3.1\while.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\aula\while+Raiz\while\while\obj\Debug\netcoreapp3.1\while.genruntimeconfig.cache
