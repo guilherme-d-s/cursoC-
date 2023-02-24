@@ -1,0 +1,14 @@
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\bin\Debug\netcoreapp3.1\senha.exe
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\bin\Debug\netcoreapp3.1\senha.deps.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\bin\Debug\netcoreapp3.1\senha.runtimeconfig.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\bin\Debug\netcoreapp3.1\senha.runtimeconfig.dev.json
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\bin\Debug\netcoreapp3.1\senha.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\bin\Debug\netcoreapp3.1\senha.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\obj\Debug\netcoreapp3.1\senha.csproj.AssemblyReference.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\obj\Debug\netcoreapp3.1\senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\obj\Debug\netcoreapp3.1\senha.AssemblyInfoInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\obj\Debug\netcoreapp3.1\senha.AssemblyInfo.cs
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\obj\Debug\netcoreapp3.1\senha.csproj.CoreCompileInputs.cache
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\obj\Debug\netcoreapp3.1\senha.dll
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\obj\Debug\netcoreapp3.1\senha.pdb
+C:\Users\PicoPC\Desktop\ws-vs19-app1\exercicios3\exercicio1\senha\senha\obj\Debug\netcoreapp3.1\senha.genruntimeconfig.cache
